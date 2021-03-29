@@ -4,7 +4,7 @@ export interface ICategorie{
 }
 
 export interface AllCategories{
-    categories: ICategorie
+    categories: ICategorie[]
 }
 
 export interface ICourses {
